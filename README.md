@@ -42,3 +42,9 @@ Modify INTRO.md, stash the changes, and then apply them.
 - Revert: Run `git revert <second-commit-hash>` to create a new commit that undoes that change
 - Check the commit history with `git log`
 
+## Task 8: Stars
+- Go to the CS Club GitHub Organisation https://github.com/compsci-adl
+- Find some projects you like
+- Click the ⭐ button at the top-right of the repository page
+
+
