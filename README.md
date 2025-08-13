@@ -13,7 +13,7 @@ Click the green **"Use this template"** button above to create your own copy of 
 Edit INTRO.md by adding your name to the description, stage your changes, make a commit and push it. 
 
 ## Task 3: Create a Branch
-Create and switch to a new branch called feature/more-info and update INTRO.md to include your city and country and whether you are a uni student. Then commit changes and push. Repeat for feature/more-info with below info:
+Create and switch to a new branch called feature/more-info and update INTRO.md to include your city and country and whether you are a uni student. Then commit changes and push. Repeat for feature/duck-info with below info:
 
 - **First Name:** Donald
 - **Last Name:** Duck
