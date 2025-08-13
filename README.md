@@ -30,3 +30,15 @@ Merge your new branch into the main branch by making a PR and clicking squash an
 
 ## Task 5: Resolving Merge Conflicts
 Switch to the feature/duck-info branch and try to make a PR for it. Fix the merge conflicts.
+
+## Task 6: Stashing
+Modify INTRO.md, stash the changes, and then apply them.
+
+## Task 7: Rewind
+- For INTRO.md, make and commit two changes (no need to push them)
+- Use `git log` to find the commit hashes
+- Reset: Run `git reset --soft <first-commit-hash>` to move HEAD back but keep changes staged
+- Check the status with `git status`
+- Revert: Run `git revert <second-commit-hash>` to create a new commit that undoes that change
+- Check the commit history with `git log`
+
