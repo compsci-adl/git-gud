@@ -29,4 +29,4 @@ Create and switch to a new branch called feature/more-info and update INTRO.md t
 Merge your new branch into the main branch by making a PR and clicking squash and merge. Delete the branch when done.
 
 ## Task 5: Resolving Merge Conflicts
-Switch to the feature/info-duck  branch and try to make a PR for it. Fix the merge conflicts.
+Switch to the feature/duck-info branch and try to make a PR for it. Fix the merge conflicts.
